@@ -24,11 +24,13 @@ if the above command does not work then:
 ### Swagger endpoints:
 http://localhost:8080/swagger-ui.html
 ## Design
+The spring-boot version is `2.5.14`
+
 There are 3 layers:
-- Controller: exposes REST APIs and Swagger UI document.
+- Controller: exposes REST APIs and Swagger UI document. The controller is built on top of `org.springframework.boot:spring-boot-starter-web`
 - Service: contains business logic. This layer also converts the entity objects to DTO objects for security, 
-flexibility and performance.
-- DAO: handles database related matters. This layer is implemented based on Spring Data JPA.
+flexibility and performance. The conversion is done by the maven dependency `org.mapstruct:mapstruct:1.4.0.Final`
+- DAO: handles database related matters. This layer is implemented based on Spring Data JPA `org.springframework.boot:spring-boot-starter-data-jpa`.
 
 ### Database
 The program use the embedded RDBMS H2. The SQL script to init the data is `src/main/resources/data.sql`
