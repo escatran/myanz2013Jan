@@ -1,0 +1,38 @@
+[
+  {
+    "accountNumber": "791066619",
+    "accountName": "AUSavings933",
+    "valueDate": "2018-11-08 00:00:00",
+    "currency": "SGD",
+    "debitAmount": "9540.98",
+    "creditAmount": "0.00",
+    "narrative": ""
+  },
+  {
+    "accountNumber": "791066619",
+    "accountName": "AUSavings933",
+    "valueDate": "2018-11-08 00:00:00",
+    "currency": "SGD",
+    "debitAmount": "7497.82",
+    "creditAmount": "0.00",
+    "narrative": ""
+  },
+  {
+    "accountNumber": "791066619",
+    "accountName": "AUSavings933",
+    "valueDate": "2018-11-08 00:00:00",
+    "currency": "SGD",
+    "debitAmount": "5564.79",
+    "creditAmount": "0.00",
+    "narrative": ""
+  },
+  {
+    "accountNumber": "791066619",
+    "accountName": "AUSavings933",
+    "valueDate": "2018-11-08 00:00:00",
+    "currency": "SGD",
+    "debitAmount": "8136.18",
+    "creditAmount": "0.00",
+    "narrative": ""
+  }
+]

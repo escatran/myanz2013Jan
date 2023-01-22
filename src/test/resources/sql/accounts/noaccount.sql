@@ -1,0 +1,35 @@
+INSERT INTO "PUBLIC"."ACCOUNT_HOLDER"("CIF") VALUES('CIF1');
+
+
+-- INSERT INTO "PUBLIC"."ACCOUNT"
+-- ("ACCOUNT_NUMBER","ACCOUNT_NAME","ACCOUNT_TYPE","BALANCE_DATE","CURRENCY","OPENING_AVAILABLE_BALANCE")
+-- VALUES
+-- ('791066619', 'AUSavings933', 'Savings', '08/11/2018', 'SGD', 84327.51);
+
+-- Account Number Account Name Account Type Balance Date Currency Opening Available Bala...
+-- 585309209 SGSavings726 SAVINGS 08/11/2018 SGD 84,327.51
+-- 791066619 AUSavings933 SAVINGS 08/11/2018 AUD 88,005.93
+-- 321143048 AUCurrent433 CURRENT 08/11/2018 AUD 38,010.62
+-- 347786244 SGCurrent166 CURRENT 08/11/2018 SGD 50,664.65
+-- 680168913 AUCurrent374 CURRENT 08/11/2018 AUD 41,327.28
+-- 136056165 AUSavings938 SAVINGS 08/11/2018 AUD 48,928.79
+-- 453963528 SGSavings842 SAVINGS 08/11/2018 SGD 72,117.53
+-- 334666982 AUSavings253 SAVINGS 08/11/2018 AUD 20,588.16
+-- 793949180 AUCurrent754 CURRENT 08/11/2018 AUD 88,794.48
+-- 768759901 SGCurrent294 CURRENT 08/11/2018 SGD 5,906.55
+-- 847257972 AUCurrent591 CURRENT 08/11/2018 AUD 92,561.68
+--
+--
+-- Account Number Account Name Value Date Currency Debit Amount Credit Amount Debit/Credit Transaction Narrative
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 9,540.98 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 7,497.82 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 5,564.79 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 8,136.18 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 9,442.46 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 7,614.45 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 3,311.55 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 9,186.09 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 1,905.86 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 197.78 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 8,430.49 Credit
+-- 123-2223-212 Currenct Account Jan. 12, 2012 SGD 8.33 Credit
