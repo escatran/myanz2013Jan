@@ -23,6 +23,11 @@ if the above command does not work then:
 `./mvnw clean spring-boot:run`
 ### Swagger endpoints:
 http://localhost:8080/swagger-ui.html
+
+From the swagger-ui, you can try to invoke the APIs:
+
+- `GET /api/{cif}/accounts`: use `CIF1` as the cif
+- `GET /api/{cif}/accounts/{accountNumber}/transactions`: use `CIF1` and `791066619` as the cif
 ## Design
 The spring-boot version is `2.5.14`
 
